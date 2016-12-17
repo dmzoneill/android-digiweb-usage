@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digiweb Usage</string>
+    <string name="appwidget_text">0 GB</string>
+    <string name="add_widget">Add widget</string>
+</resources>
